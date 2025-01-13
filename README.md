@@ -1,1 +1,1 @@
-There are 2 scripts hosted on this github. Both files will install the suite of apps that I use on a daily basis, the brew.sh does not need to have homebrew installed to run and the file named "Bundle" does. 
+There are 2 scripts hosted on this github. Both files will install the suite of apps that I use on a daily basis, the brew.sh does not need to have homebrew installed to run and the file named "brewfile" does. 
