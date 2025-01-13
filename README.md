@@ -1,1 +1,1 @@
-There are 2 files here that will install the suite of apps that I tend to use on a daily basis on my Mac. The bash script requires no extra steps and the bundle requires homebrew installed. 
+There are 2 scripts hosted on this github. Both files will install the suite of apps that I use on a daily basis, the brew.sh does not need to have homebrew installed to run and the file named "Bundle" does. 
