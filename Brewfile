@@ -5,7 +5,6 @@ brew "nano"
 brew "python@3.13"
 brew "squashfs"
 brew "snap"
-brew "windows-app"
 brew "tailscale", restart_service: :changed
 cask "1password"
 cask "aldente"
