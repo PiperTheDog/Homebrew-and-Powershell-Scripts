@@ -1,7 +1,7 @@
 # 🚀 Brew Installation Scripts
 
 This repo contains a series of files that can be used to download all of the apps I use daily on my MacBook in one command. 
-##Curl is used because MacBooks do not have WGET installed by default like Linux.
+Curl is used because MacBooks do not have WGET installed by default like Linux.
 
 ---
 
