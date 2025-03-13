@@ -1,6 +1,6 @@
 # 🚀 Brew Installation Scripts
 
-This repo contains a series of files that can be used to download all of the apps I use daily on my macbook in one command. 
+This repo contains a series of files that can be used to download all of the apps I use daily on my MacBook in one command. 
 
 ---
 
@@ -10,5 +10,3 @@ This repo contains a series of files that can be used to download all of the app
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/PiperTheDog/Homebrew-and-Powershell-Scripts/main/brew.sh)"
-'''
-## Curl is used because Macbooks do not have WGET installed by default like linux. 
