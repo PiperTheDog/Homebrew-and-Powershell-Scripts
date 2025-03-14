@@ -10,5 +10,5 @@ Curl is used because MacBooks do not have WGET installed by default like Linux.
 ### Run this command to download and run the bash script. This will install all required apps and have your Mac ready for use in no time!
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/PiperTheDog/Homebrew-and-Powershell-Scripts/main/brew.sh)"
+sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/PiperTheDog/Homebrew-and-Powershell-Scripts/main/brew.sh)"
 bash
