@@ -5,6 +5,8 @@
 # Install the requred 
 
 # Add Homebrew to the path to ensure that it is available to use 
+echo >> "$HOME/.zprofile"
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> "$HOME/.zprofile"
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
 #Install thecorrect brewfile from github to your working directory
